@@ -2,5 +2,7 @@ body {
     background-color:brown;
 }
 p{
-    color:aqua
+    color:aqua;
+    font-size: 25px; 
+    font-style: italic;
 }
